@@ -21,4 +21,8 @@ Aim: Implement and deploy a smart contract on the Ethereum blockchain. Upon user
 ### Solidity 
 - Solidity is a high-level contratc centric language specifically designed for writing smart contracts on blockchain platforms, most notably on the Ethereum blockchain.
 
+## Part-1 Solidity
+- Learning Solidity by using  [Crypto Zombies](https://cryptozombies.io/) as the learning platform.
+
+## Part-2 
 
